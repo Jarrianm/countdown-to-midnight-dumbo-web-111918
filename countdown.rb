@@ -3,5 +3,5 @@ def countdown (integer)
       puts "#{integer} SECOND(S)!"
       integer -=1
     end
-    puts "0 left. HAPPY NEW YEARS!"
+    return "0 left. HAPPY NEW YEARS!"
 end
