@@ -4,6 +4,5 @@ def countdown (integer)
       puts "#{integer}"
       integer -=1
     end
-until integer == 0
-  puts "HAPPY NEW YEAR!"
+    puts "0 left. HAPPY NEW YEARS!"
 end
