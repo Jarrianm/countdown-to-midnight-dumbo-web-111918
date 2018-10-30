@@ -6,3 +6,4 @@ def countdown (integer)
     end
 until integer == 0
   puts "HAPPY NEW YEAR!"
+end
